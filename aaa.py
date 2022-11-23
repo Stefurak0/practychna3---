@@ -1,4 +1,4 @@
-text = input("Ваш текст: ")
+text = input("Введіть ваш текст: ")
 
 a = len(text)
 l = list(text)
